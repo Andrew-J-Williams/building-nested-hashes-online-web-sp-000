@@ -6,7 +6,7 @@ def third_challenge
 
         },
       :matriarch => {
-        
+
         },
       :hero => {
         
@@ -26,7 +26,7 @@ def third_challenge
         },
       :heroine_friends => []
    }
-   
+
   }
 
 
